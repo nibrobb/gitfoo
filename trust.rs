@@ -1,4 +1,5 @@
+const MESSAGE: &str = "In Rust we trust";
 fn main() {
-    println!("In Rust we trust");
+    println!("{}", MESSAGE);
 }
 
